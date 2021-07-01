@@ -1,13 +1,9 @@
-##Developer, Project zomboid modder  
-####I like to do impossible things
+## Developer, Project zomboid modder  
+#### I like to do impossible things
 
-![Aiteron](./images/aiteronLogo.png)
+<img src="./images/aiteronLogo.png" alt="Aiteron" title="Aiteron" width="25%" height="25%"/>
 
 ### Hi, I am Aiteron 
-
-#### Me IRL
-![Me](./images/meIRL.jpg)
-
 
 #### I am creator mods for Project Zomboid: 
 * [Better towing](https://steamcommunity.com/sharedfiles/filedetails/?id=2241990680)
@@ -29,6 +25,9 @@
 - Project Zomboid modder (700+ hours of PZ modding)
 - Known langs: Russian, English
 
+
+#### Me IRL
+<img src="./images/meIRL.jpg" alt="Aiteron" title="Aiteron" width="50%" height="50%"/>
 
 ### Links
 [Patreon]() // Soon    
