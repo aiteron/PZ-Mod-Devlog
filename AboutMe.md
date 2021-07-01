@@ -13,8 +13,8 @@
 * [AUD - Aiteron Userfriendly Debug](https://steamcommunity.com/sharedfiles/filedetails/?id=2340608427)
 
 ### Mods in developing
-* NPC mod
-* Basement mod
+* NPC mod (check videos here: [YouTube](https://www.youtube.com/c/Aiteron), and text devlogs here [TODO])
+* Basement mod (check videos here: [YouTube](https://www.youtube.com/c/Aiteron))
 
 
 ### Statistics
